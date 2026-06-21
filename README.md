@@ -16,7 +16,7 @@ In this project, the dataset consists of supermarket product images and their co
 
 The project was divided into two main stages:
 
-### Objective 1 – Baseline Segmentation Pipeline
+### Phase 1 – Baseline Segmentation Pipeline (Phase1.ipynb)
 
 Development of an initial image segmentation pipeline using a compact U-Net architecture.
 
@@ -27,7 +27,7 @@ Main tasks:
 * Model training and validation.
 * Performance evaluation using segmentation metrics.
 
-### Objective 2 – Model Improvements
+### Phase 2 – Model Improvements (Phase2.ipynb)
 
 Several enhancements were explored to improve segmentation performance.
 
@@ -41,31 +41,6 @@ Potential improvements included:
 * Training strategy improvements.
 
 The impact of each modification was evaluated and compared against the baseline model.
-
-## Project Structure
-
-### Objective 1 – Baseline Pipeline
-
-Contains the implementation of the initial segmentation model, data loading procedures and training scripts.
-
-Main components:
-
-* Dataset preparation.
-* U-Net architecture.
-* Training and validation pipeline.
-* Performance evaluation.
-
-### Objective 2 – Model Improvements
-
-Contains the experiments and modifications introduced to improve model performance.
-
-Main components:
-
-* Enhanced preprocessing techniques.
-* Hyperparameter tuning experiments.
-* Alternative optimization strategies.
-* Improved model configurations.
-* Comparative performance analysis.
 
 ## Technologies Used
 
