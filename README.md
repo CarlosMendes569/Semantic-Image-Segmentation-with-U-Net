@@ -1,4 +1,4 @@
-# Supermarket Product Segmentation using U-Net
+# Semantic Image Segmentation using U-Net
 
 ## Overview
 
